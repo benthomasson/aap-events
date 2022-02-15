@@ -1,0 +1,3 @@
+*.py text filter=cleanPass
+*.yml text filter=cleanPass
+
